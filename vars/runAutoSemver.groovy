@@ -1,6 +1,3 @@
-
-#!/usr/bin/env groovy
-
 /**
  * Runs "semver -n" and updates environment variables ${env.SEMVER_NEW_VERSION}, ${env.SEMVER_RESOLVED_VERSION},
  * ${env.VERSION}, and ${env.SEMVER_STATUS}
